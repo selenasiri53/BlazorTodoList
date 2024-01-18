@@ -27,3 +27,4 @@
 /Users/selenasiri/TodoList/obj/Debug/net8.0/TodoList.pdb
 /Users/selenasiri/TodoList/obj/Debug/net8.0/TodoList.genruntimeconfig.cache
 /Users/selenasiri/TodoList/obj/Debug/net8.0/ref/TodoList.dll
+/Users/selenasiri/TodoList/obj/Debug/net8.0/TodoList.sourcelink.json
